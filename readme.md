@@ -1,4 +1,7 @@
+#### <center>Refrence from GPT4, Gemini, GitHub Copilot, W3School, Dicoding, Geeksforgeeks</center>
 # <center>Jurnal 02: Generic dan ArrayList</center>
+### <center>By. Brindawan Yoga</center>
+
 
 <!-- <h1 align="center">Jurnal 02: Generic dan ArrayList</h1> -->
 
@@ -54,5 +57,7 @@ Dengan mengikuti petunjuk di atas, Anda dapat membuat sebuah program sederhana u
 2. **Geeksforgeeks - Generics in Java**: [Link](https://www.geeksforgeeks.org/generics-in-java/)
    - Artikel ini memberikan pemahaman dasar tentang generic types dalam Java, termasuk pengenalan, keuntungan, serta contoh penggunaannya dalam berbagai situasi.
 
+3. **Dicoding - Pemrograman Dengan Java**: [Link](https://www.dicoding.com/academies/60)
+   - Kamu dapat mempelajari Java dengan cukup mendalam sampai dengan OOP secara gratis pada website ini, selain itu kamu juga dapat menggunakan forum diskusi Dicoding untuk bertanya jika terdapat kesulitan dalam belajar Java.
 
 ---

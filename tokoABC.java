@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 
 // Kelas generik untuk menyimpan operasi-operasi yang dapat dilakukan pada data barang
