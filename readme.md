@@ -1,4 +1,4 @@
-#### <center>Refrence from GPT4, Gemini, GitHub Copilot, W3School, Dicoding, Geeksforgeeks</center>
+#### <center align="center">Refrence from GPT4, Gemini, GitHub Copilot, W3School, Dicoding, Geeksforgeeks</center>
 # <center>Jurnal 02: Generic dan ArrayList</center>
 ### <center>By. Brindawan Yoga</center>
 
